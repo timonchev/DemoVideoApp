@@ -1,0 +1,44 @@
+PODS:
+  - Differentiator (4.0.1)
+  - MMPlayerView (5.0.8)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - UBottomSheet (1.0.7)
+
+DEPENDENCIES:
+  - MMPlayerView
+  - RxCocoa (~> 5)
+  - RxDataSources (~> 4.0)
+  - RxSwift (~> 5)
+  - UBottomSheet
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - MMPlayerView
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - UBottomSheet
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  MMPlayerView: 50d9d4d54ec31dffb137bc70d99dc22ab7c408e4
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  UBottomSheet: f5b325d5f06e952ae337d2d806307f61fe806a79
+
+PODFILE CHECKSUM: 5d15cacd420c791fc2d341d2139fa668ec89f06f
+
+COCOAPODS: 1.9.1
